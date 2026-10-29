@@ -31,4 +31,4 @@ Abra o arquivo `index.html` pelo Live Server no Visual Studio Code para acessar 
 ## Repositório e publicação
 
 - **GitHub:** https://github.com/Gabyrxv/pweb-ts-estruturas.git
-- **GitHub Pages:** inserir o link do site após a publicação.
+- **GitHub Pages:** https://gabyrxv.github.io/pweb-ts-estruturas/
